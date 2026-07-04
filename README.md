@@ -1,5 +1,13 @@
 # Learning Management System (LMS)
+## Screenshots
 
+| Login | Dashboard |
+|-------|-----------|
+| ![Login](images/login.png) | ![Dashboard](images/dashboard.png) |
+
+| Students | Courses |
+|----------|----------|
+| ![Students](images/students.png) | ![Courses](images/courses.png) |
 ## Overview
 
 This project is a web-based Learning Management System (LMS) developed during my software development internship. It provides an efficient platform for managing courses, students, instructors, and academic activities.
